@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.exe
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.deps.json
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.runtimeconfig.json
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.dll
+C:\Users\pc\source\repos\Flappy\bin\Debug\netcoreapp3.1\Flappy.pdb
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.Form1.resources
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.Properties.Resources.resources
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.AssemblyInfo.cs
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.dll
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.pdb
+C:\Users\pc\source\repos\Flappy\obj\Debug\netcoreapp3.1\Flappy.genruntimeconfig.cache
